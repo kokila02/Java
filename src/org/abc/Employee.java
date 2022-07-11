@@ -9,6 +9,7 @@ System.out.println("EmpId is 222");
 }
 private void empAge() {
 System.out.println("empName is kokila");
+System.out.println("empAge is 39");
 }
 public static void main(String[] args) {
 	Employee e=new Employee();
